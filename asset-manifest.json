@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edgarescobar/static/css/main.5661845d.css",
+    "main.js": "/edgarescobar/static/js/main.9a6efa96.js",
+    "index.html": "/edgarescobar/index.html",
+    "main.5661845d.css.map": "/edgarescobar/static/css/main.5661845d.css.map",
+    "main.9a6efa96.js.map": "/edgarescobar/static/js/main.9a6efa96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5661845d.css",
+    "static/js/main.9a6efa96.js"
+  ]
+}
